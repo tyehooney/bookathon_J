@@ -9,12 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FedYourPet">
-<<<<<<< HEAD
         <activity android:name=".ui.MainActivity"
             android:exported="true">
-=======
-        <activity android:name=".ui.MainActivity">
->>>>>>> fb9ddde736fb690fadd292f0f7cbc37c45d70126
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
